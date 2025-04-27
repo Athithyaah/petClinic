@@ -166,3 +166,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 # Test trigger from GitHub
 # Test trigger from GitHub
 # Test triggerv2 from GitHub
+# Test trigger v3 from GitHub
